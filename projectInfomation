@@ -1,0 +1,69 @@
+WanderLust for short-term housing rentals 
+its it informative website 
+
+"Wanderlust" is a strong desire or impulse to wander or travel and explore the world. The term originates from the German words "wandern," meaning "to hike" or "to wander," and "Lust," meaning "desire" or "pleasure." It reflects a deep passion for experiencing new places, cultures, and adventures. People with wanderlust often feel a persistent urge to travel and discover new destinations.
+
+
+Feature 
+1.View the Listing
+2.Airbnb your House
+3.User Reviews and Ratings
+4.User Search the Destination
+5.Map facility
+
+
+Project buid:
+MERN stack Using
+1)Authentication And Authorization
+2)Validition(client side,MangodbScema,Reviews Section)
+3)MVC architure Follow(Mdel View Controller)
+4)Session Managment(Cokes)
+5)EJS 
+6)REST FULL API
+7)Error handling
+8)Hashing concept
+
+
+
+
+chinchejay
+UjVAf6ZHWZSYRb9Jnpm install mongodb
+
+
+
+mongodb+srv://chinchejay:UjVAf6ZHWZSYRb9J@cluster0.iprlepa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+
+
+
+
+
+mongodb+srv://chinchejay:f60VuhfkCJpT46as@cluster0.em0vbrh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+how we can deploye our project 
+step1: store our database to clould like(we uses the MongoDb alas we store)
+then local to clold mongodbalass....
+
+
+step2:conncect mango pakage for cookess infomartion 
+
+add screet::session realted information also save::::adhi aplya local var store hot hoti ata cloud var hote
+
+
+step3: Deployment to render 
+
+ first we chnages add to our packages
+   "engines": {
+    "node": "21.6.1"
+  },
+
+
+
+  step:connect project to github:
+   step---1)  build command npm install
+          2) start command  node app.js
+          3)auto deploye click prorly
